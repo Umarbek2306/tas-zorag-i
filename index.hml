@@ -1,0 +1,7 @@
+<button onclick="logout()">Выйти</button>
+
+<script>
+function logout() {
+  window.location.href = "/logout";
+}
+</script>
